@@ -6,8 +6,8 @@ https://github.com/ehmatthes/pcc
 
 This is my version popular game - Alien Invasion
 
-It's compression version for Win32/64
-Exe file - https://github.com/icesk1ll/AlienInvasion/blob/master/alien_invasion.exe
-Need copy all folder and started on your's PC
+Started file - https://github.com/icesk1ll/AlienInvasion/blob/master/Source/alien_invasion.py
+File for compressing for .exe - https://github.com/icesk1ll/AlienInvasion/blob/master/Source/setup.py
+Use cx_Freeze for freezing Python scripts into executables files
 
 Thank You!
