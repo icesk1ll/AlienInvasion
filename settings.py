@@ -4,6 +4,7 @@ class Settings:
     def __init__(self):
         """Инициализирует статические настройки игры."""
         # Параметры экрана
+        self.alien_points = 50
         self.screen_width = 1200
         self.screen_height = 800
         self.bg_color = (210, 210, 210)
@@ -36,7 +37,6 @@ class Settings:
         # fleet_direction = 1 обозначает движение вправо; а -1 - влево.
         self.fleet_direction = 1
         # Подсчет очков
-        self.alien_points = 50
 
     def increase_speed(self):
         """Увеличивает настройки скорости и стоимость пришельцев."""

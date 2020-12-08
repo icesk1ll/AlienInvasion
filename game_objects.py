@@ -68,7 +68,7 @@ class Bullet(Sprite):
 
 
 class Button:
-    def __init__(self, ai_settings, screen, msg):
+    def __init__(self, screen, msg):
 
         """Инициализирует атрибуты кнопки."""
         self.screen = screen
