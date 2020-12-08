@@ -6,8 +6,10 @@ https://github.com/ehmatthes/pcc
 
 This is my version popular game - Alien Invasion
 
-Started file - https://github.com/icesk1ll/AlienInvasion/blob/master/Source/alien_invasion.py
+## Starting and preparing
+**pip install -r requirements.txt** - for install requirements <br>
+**python alien_invasion.py** - to start game
 
 ## For Windows
-File for compressing for .exe - https://github.com/icesk1ll/AlienInvasion/blob/master/Source/setup.py
+File for compressing for .exe - **setup.py**
 Use cx_Freeze for freezing Python scripts into executables files
